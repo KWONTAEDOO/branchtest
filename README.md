@@ -20,4 +20,8 @@
 
 
 
+
 - 원격에서 직접 수정함.
+
+- hyunseung/something 에서 작성함
+
